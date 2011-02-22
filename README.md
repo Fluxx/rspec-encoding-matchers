@@ -10,7 +10,7 @@ Installation
 
 Then require the gem:
 
-`require 'rspec_encoding_matchers`
+`require 'rspec_encoding_matchers'`
 
 Configuration
 -------------

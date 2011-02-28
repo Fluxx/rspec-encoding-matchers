@@ -18,7 +18,7 @@ Configuration
 To use the custom matchers, include the matcher module either in an example group:
 
     describe "my group" do
-      include RspecEncodingMatchers
+      include RSpecEncodingMatchers
       it "is encoded in UTF-8" do
         hello.should be_encoded_as("UTF-8")
       end
